@@ -1,0 +1,26 @@
+body{
+    background-color: #111111ff;
+}
+
+p{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+h2{
+    background-color: black;
+    font-size: 14px;
+    font-family: 'Press Start 2P', cursive;
+    color:white;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left:5px;
+    padding-right:5px;
+}
+
+#mainSprites{
+   
+    text-align: center;
+}
